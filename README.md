@@ -1,8 +1,7 @@
 # 👋 Hello, I'm Dagmawi(Dagim) 
+- 🎓 I'm college senior pursuing a Bachelors degee in Computer Science
 - 📱 I'm currently learning React Native, AWS and Azure.
 - 🐣 **Actively looking for** a junior level position or an Internship in Software Engineering
-
-<!-- [![Dagmawi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dagmawidemissie17&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ![page views](https://komarev.com/ghpvc/?username=dagmawidemissie17&label=visitors)
 
